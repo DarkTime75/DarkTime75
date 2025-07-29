@@ -39,4 +39,4 @@ I'm a backend-focused software developer with a passion for distributed systems,
 ![](https://github-profile-trophy.vercel.app/?username=DarkTime75&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-![](https://komarev.com/ghpvc/?username=DarkTime75)
+![](https://komarev.com/ghpvc/?username=DarkTime75&style=for-the-badge)
