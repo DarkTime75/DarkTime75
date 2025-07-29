@@ -30,7 +30,7 @@ I'm a backend-focused software developer with a passion for distributed systems,
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DarkTime75&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=DarkTime75&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkTime75&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -38,5 +38,5 @@ I'm a backend-focused software developer with a passion for distributed systems,
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DarkTime75&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=DarkTime75&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![](https://komarev.com/ghpvc/?username=DarkTime75)
